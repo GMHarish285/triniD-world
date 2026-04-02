@@ -1,2 +1,5 @@
-add FPS movement
+remove 
+
 interact with objects
+
+add global state mgmt for mouse lock

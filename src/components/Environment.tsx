@@ -13,8 +13,8 @@ export function Environment() {
         <meshStandardMaterial />
       </mesh>
 
-      {/*not working*/}
-      {/* <Model3D path="/models/AnimatedCube.gltf" position={[-2, 0, 0]} scale={0.01} /> */}
+      {/* not working */}
+      <Model3D path="models/Nike Shoe V2.glb" position={[0, -1, 0]} scale={20} />
     </>
   );
 }
